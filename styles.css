@@ -1,0 +1,11 @@
+h1 {
+  color: red;
+}
+
+body {
+  background-image: url("https://i.imgur.com/HmgXL86.jpg");
+  background-repeat: repeat;
+  color: green;
+  font-family: cursive;
+  font-size: large;
+}
